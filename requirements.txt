@@ -1,6 +1,0 @@
-streamlit
-joblib
-scikit-learn
-numpy
-pillow
-streamlit-drawable-canvas
